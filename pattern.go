@@ -117,7 +117,7 @@ func main(){
 	starpattern1()
 	fmt.Println()
 	fmt.Println("2")
-    starpattern2()
+        starpattern2()
 	fmt.Println()
 	fmt.Println("3")
 	starpattern3()
