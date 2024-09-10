@@ -6,7 +6,7 @@ How to run?
 Clone the repo in your local machine.
 <br>
 ```  https://github.com/Unnati-Gupta24/patrongo.git   ```
-<br>
+<br><br>
 Run the repo by writing the command.
 <br>
 ``` go run pattern.go ```
