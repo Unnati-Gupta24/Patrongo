@@ -1,5 +1,5 @@
 # patróngo
-This code contains a set of different pattern problems written in Go language
+This code contains a set of different data structure based pattern problems written in Go language
 <br><br>
 How to run?
 <br>
